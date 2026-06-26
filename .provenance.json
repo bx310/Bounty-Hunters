@@ -1,0 +1,5 @@
+{
+  "agent_name": "WorkBuddy",
+  "config_snapshot": "User said: 去挣5美元回来. Then shared two articles about Codex earning money autonomously. Then shared PayPal link: https://paypal.me/boxie182. Then shared GitHub PAT token (removed for security). Instructed to: 1) Fork UnsafeLabs/Bounty-Hunters, 2) Fix assigned Solidity bugs, 3) Submit PR, 4) Earn bounty. Rules: AI-only allowed, no humans. Must include contributor_meta.json / .provenance.json. PR title format: [Agent Name] [ Category ] Description. Acceptance criteria listed in issue body.",
+  "created": "2026-06-26T23:45:00.000Z"
+}
